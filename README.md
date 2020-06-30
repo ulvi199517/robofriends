@@ -1,3 +1,3 @@
 # robofriends
 App created with help of React. 
-In order to start the app type NPM START on command line.
+In order to start the app type NPM START in command line.
